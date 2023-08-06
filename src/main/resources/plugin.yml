@@ -1,0 +1,9 @@
+name: GetPos
+version: 1.0
+description: Plugin giúp người chơi Bedrock có thể biết được tọa độ của họ.
+author: hungaz
+main: me.hungaz.getpos.GetPos
+commands:
+  toado:
+    description: Xem tọa độ của bạn
+    usage: /toado
